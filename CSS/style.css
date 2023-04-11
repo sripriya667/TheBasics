@@ -1,0 +1,43 @@
+.top-Container {
+    background-color:aqua;
+    position: relative;
+    padding: 20px 200px 200px 450px;
+          /* T   R   B   L*/
+    margin: 20px 30px 20px 30px; 
+}
+#ramu {
+   
+   /* margin: 2px auto 10px 20px; */
+   
+   font-family: 'Sacramento', cursive;
+   font-size: 300%;
+}
+#chomu {
+    /* margin: 2px auto 200px 20px; */
+    font-family: monospace;
+    font-size: xx-large;
+}
+
+h2 {
+    font-family: cursive;
+}
+.mid-Container {
+    background-color: skyblue;
+    position: relative;
+    padding: 100px 50px 200px 50px;
+          /* T   R   B   L*/
+    margin: 20px 30px 20px 30px;
+    
+}
+
+#cap {
+    margin: 10px auto 100px 400px;
+}
+
+.bottom-Container {
+    background-color:pink;
+    position: relative;
+    padding: 200px 50px 200px 450px;
+          /* T   R   B   L*/
+    margin: 20px 30px 20px 30px;
+}
